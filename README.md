@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Zeinab Khanafer
+- 👀 I’m a passionate web developer
+- 🌱 I’m currently learning react js 
+- 📫 you can reach me on my email zeinabkhazaalkhanafer@gmail.com
